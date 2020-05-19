@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-UacService-E6D1E7A1-ED66-45C3-8064-C9D1A5055D09</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.4" />
+  </ItemGroup>
+</Project>
