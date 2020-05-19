@@ -14,3 +14,5 @@ reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v  C
 
 Registry Editor path:
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+
+![Service Screenshot](/images/services-screenshot.png)
