@@ -1,5 +1,7 @@
 # UAC Service
 
+![CI](https://github.com/aclalex/uac-service/workflows/CI/badge.svg)
+
 Windows service creation:
 sc create "UAC Service" binPath=C:\UacService\UacService.exe
 
